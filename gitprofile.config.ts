@@ -55,7 +55,7 @@ const CONFIG = {
   },
   skills: [
     'Python',
-    'Parts of JavaScript',,
+    'Parts of JavaScript',
     'Parts of Docker',
     'CSS',
     'HTML',

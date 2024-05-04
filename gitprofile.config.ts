@@ -49,8 +49,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    website: 'https://www.arifszn.com',
-    phone: '',
+    website: 'https://levrx.lol',
     email: 'lewis@levrx.lol',
   },
   skills: [

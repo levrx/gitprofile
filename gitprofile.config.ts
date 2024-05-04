@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'movie-vault',
           description:
-            'Watch your favorite shows and movies for free with no ads ever!',
+            'Watch your favorite shows and movies for free with no ads ever! (forked)',
           imageUrl:
             'https://images.levrx.lol/file/30c077f12e70f3bef6a94.png',
           link: 'https://movies.levrx.lol',

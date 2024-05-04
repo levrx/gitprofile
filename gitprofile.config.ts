@@ -60,7 +60,7 @@ const CONFIG = {
     'HTML',
   ],
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode

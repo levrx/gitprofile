@@ -40,6 +40,14 @@ const CONFIG = {
             'https://images.levrx.lol/file/30c077f12e70f3bef6a94.png',
           link: 'https://movies.levrx.lol',
         },
+        {
+          title: 'image-host',
+          description:
+            'A site to host your images that are deleted after a short period of time.',
+          imageUrl:
+            '',
+          link: 'https://movies.levrx.lol',
+        },
       ],
     },
   },

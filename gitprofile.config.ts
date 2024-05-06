@@ -43,7 +43,7 @@ const CONFIG = {
         {
           title: 'image-host',
           description:
-            'A site to host your images that are deleted after a short period of time.',
+            'A site to host your images that are deleted after a long period of time.',
           imageUrl:
             'https://images.levrx.lol/file/48724bffe0fe42900eed1.png',
           link: 'https://images.levrx.lol',
